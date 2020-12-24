@@ -4,8 +4,8 @@ title: Mohamad Shalaby
 #google_analytics:
 
 header_pages:
-  - [Contact](./index.html)  
-  - [Research](./Research.html)
+  - index.md  
+  - Research.md
   
   
 #theme: jekyll-theme-cayman
