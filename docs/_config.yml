@@ -8,6 +8,6 @@ header_pages:
   - Research.md
   
   
-#theme: jekyll-theme-cayman
-theme: jekyll-theme-dinky
+theme: jekyll-theme-cayman
+#theme: jekyll-theme-dinky
 
