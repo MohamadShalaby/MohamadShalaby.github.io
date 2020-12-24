@@ -5,6 +5,6 @@ navbar-links:
   About Me: "index.md"
 
 
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
