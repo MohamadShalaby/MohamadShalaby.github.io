@@ -1,11 +1,10 @@
 ---
 layout: default
 ---
-[Contact](./index.html).
+[Contact](./index.html.)
 &nbsp;
 &nbsp;
-[Research](./Research.html).
-
+[Research](./Research.html.)
 
 
 # Postdoctoral fellow 9/2018 --
