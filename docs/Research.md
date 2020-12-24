@@ -1,4 +1,6 @@
-## Beam-Plasma instabilities in the IGM 
+##Research
+
+# Beam-Plasma instabilities in the IGM 
 
 
-## Cosmic ray acceleration and propagation
+# Cosmic ray acceleration and propagation
