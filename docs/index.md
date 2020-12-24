@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-[Contact](./index.html).
-[Research](./Research.html).
+[Contact](./index.html).     [Research](./Research.html).
+
+
 
 # Postdoctoral fellow 9/2018 --
 Leibniz Institute for Astrophysics (AIP)
