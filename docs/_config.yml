@@ -16,7 +16,7 @@ plugins:
 
  
 #theme: jekyll-theme-cayman
-#theme: jekyll-theme-dinky
+theme: jekyll-theme-dinky
 #theme: jekyll-theme-architect
 
 
