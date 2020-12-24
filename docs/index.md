@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-[Contact](./index.html).  <br />  [Research](./Research.html).
+[Contact](./index.html).
+[Research](./Research.html).
 
 
 
