@@ -3,9 +3,11 @@ title: Mohamad Shalaby
 #show_downloads: true
 #google_analytics:
 
-#theme: jekyll-theme-cayman
-theme: jekyll-theme-dinky
-
 header_pages:
   - [Contact](./index.html)  
   - [Research](./Research.html)
+  
+  
+#theme: jekyll-theme-cayman
+theme: jekyll-theme-dinky
+
