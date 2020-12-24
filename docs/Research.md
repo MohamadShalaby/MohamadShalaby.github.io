@@ -1,4 +1,3 @@
-## Research
 
 # Beam-Plasma instabilities in the IGM 
 
