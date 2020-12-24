@@ -5,4 +5,7 @@ navbar-links:
   Research: "Research"
 
 
-theme: jekyll-theme-leap-day
+#theme: jekyll-theme-leap-day
+theme: minima
+plugins:
+  - jekyll-feed
