@@ -1,3 +1,8 @@
 title: Mohamad Shalaby
 
+navbar-links:
+  About Me: "index"
+  Research: "Research"
+
+
 theme: jekyll-theme-leap-day
