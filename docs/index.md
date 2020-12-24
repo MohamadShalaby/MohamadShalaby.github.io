@@ -3,7 +3,7 @@ layout: default
 ---
 # [Home](./index.html)  &nbsp; &nbsp;  [Research](./Research.html)
 
-
+![](pic.png)
 
 Postdoctoral fellow 9/2018 --
 
