@@ -1,11 +1,11 @@
 title: Mohamad Shalaby
 
 navbar-links:
-  Research: "Research"
-  About Me: "index"
+  Research: "Research.md"
+  About Me: "index.mb"
 
 
-#theme: jekyll-theme-leap-day
-theme: minima
+theme: jekyll-theme-leap-day
+#theme: minima
 plugins:
   - jekyll-feed
