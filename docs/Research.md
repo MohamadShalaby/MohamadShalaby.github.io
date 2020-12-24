@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-[Contact](./index.html.)
+[Contact](./index.html)
 &nbsp;
 &nbsp;
-[Research](./Research.html.)
+[Research](./Research.html)
 
 
 ## Beam-Plasma instabilities in the IGM 
