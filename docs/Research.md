@@ -3,7 +3,6 @@ layout: default
 ---
 
 [Contact](./index.html).
-
 [Research](./Research.html).
 
 
