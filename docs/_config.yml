@@ -6,3 +6,6 @@ title: Mohamad Shalaby
 #theme: jekyll-theme-cayman
 theme: jekyll-theme-dinky
 
+header_pages:
+  - [Contact](./index.html)  
+  - [Research](./Research.html)
