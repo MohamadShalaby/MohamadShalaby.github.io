@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# [Home](./index.html)  &nbsp; &nbsp;  [Research](./Research.html)
+# [Home](index)  &nbsp; &nbsp;  [Research](Research)  &nbsp; &nbsp;  [Research](Pub) 
 
 
 ## Beam-Plasma instabilities in the IGM 
