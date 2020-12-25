@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-# [Home](./index)  &nbsp; &nbsp;  [Research](./Research)
+# [Home](index)  &nbsp; &nbsp;  [Research](Research)
 
-![mypic][picture]
+![][picture]
 
 [picture]: ../images/pic.jpg
 
