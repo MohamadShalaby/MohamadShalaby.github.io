@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-# [Home](./index.html)  &nbsp; &nbsp;  [Research](./Research.html)
+# [Home](./index.html)  &nbsp; &nbsp;  [Research](./Research)
 
-![im_info](./pic.html)
+![im_info](./pic.png)
 
 Postdoctoral fellow 9/2018 --
 
