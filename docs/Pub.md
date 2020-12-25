@@ -5,12 +5,5 @@ layout: default
 
 
 
-#### [Scholar](https://scholar.google.ca/citations?user=KCgpd4UAAAAJ&hl=en) &nbsp; | &nbsp;[ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=%3Dauthor%3A%22Shalaby%2C%20Mohamad%22&sort=date%20desc%2C%20bibcode%20desc)
+## [Scholar](https://scholar.google.ca/citations?user=KCgpd4UAAAAJ&hl=en) &nbsp; | &nbsp;[ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=%3Dauthor%3A%22Shalaby%2C%20Mohamad%22&sort=date%20desc%2C%20bibcode%20desc)
 
-
-
-<font color='red'>test blue color font</font>
- 
- 
- 
- <span style="color:red">some **This is Red Bold.** text</span>
