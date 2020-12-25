@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-title: Publications
+
 # [Home](index)  &nbsp; &nbsp;  [Research](Research)  &nbsp; &nbsp;  [Publications](Pub) 
 
 
