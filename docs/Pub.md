@@ -9,3 +9,8 @@ layout: default
 
 
 
+<font color='red'>test blue color font</font>
+ 
+ 
+ 
+ <span style="color:red">some **This is Red Bold.** text</span>
