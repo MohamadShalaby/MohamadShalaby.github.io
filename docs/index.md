@@ -3,7 +3,7 @@ layout: default
 ---
 # [Home](index)  &nbsp; &nbsp;  [Research](Research)
 
-![][picture]
+![][logo]
 
 [picture]: pic.jpg
 
