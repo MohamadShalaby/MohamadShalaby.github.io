@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [Home](index)  &nbsp; &nbsp;  [Research](Research)  &nbsp; &nbsp;  [Publications](Pub) 
+# [Home](./)  &nbsp; &nbsp;  [Research](Research)  &nbsp; &nbsp;  [Publications](Pub) 
 
 
 ## Beam-Plasma instabilities in the IGM 
