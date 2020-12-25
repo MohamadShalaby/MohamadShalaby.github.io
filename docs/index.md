@@ -3,7 +3,9 @@ layout: default
 ---
 # [Home](./index)  &nbsp; &nbsp;  [Research](./Research)
 
-![im_info](../images/pic.jpg)
+![mypic][picture]
+
+[picture]: ../images/pic.jpg
 
 Postdoctoral fellow 9/2018 --
 
