@@ -5,7 +5,7 @@ layout: default
 
 ![][picture]
 
-[picture]: ../images/pic.jpg
+[picture]: pic.jpg
 
 Postdoctoral fellow 9/2018 --
 
