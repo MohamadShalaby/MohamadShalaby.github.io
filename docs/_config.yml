@@ -6,17 +6,18 @@ title: Mohamad Shalaby
 #show_downloads: true
 #google_analytics:
 email: mshalaby@live.ca
-#plugins:
-#- jekyll-avatar
-#- jekyll-feed
-#- jekyll-mentions
-#- jekyll-redirect-from
-#- jekyll-seo-tag
-#- jekyll-sitemap
-#- jemoji
+
+plugins:
+- jekyll-avatar
+- jekyll-feed
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-seo-tag
+- jekyll-sitemap
+- jemoji
 
  
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
 #theme: jekyll-theme-dinky
 #theme: jekyll-theme-architect
 
