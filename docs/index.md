@@ -4,7 +4,7 @@ layout: default
 
 # [Home](index)  &nbsp; &nbsp;  [Research](Research)  &nbsp; &nbsp;  [Publications](Pub) 
 
-![][pic.jpg#right]
+![][picture]
 
 [picture]: pic.jpg
 
