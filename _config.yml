@@ -20,3 +20,5 @@ include:
   - index.md
   - Research.md
   - Pub.md
+
+theme: jekyll-theme-architect
