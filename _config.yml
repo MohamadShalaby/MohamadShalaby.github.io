@@ -1,21 +1,12 @@
 title: Mohamad Shalaby
-
-header_pages:
-- navbar.md
+ 
 
 #description: Cayman is a clean, responsive theme for GitHub Pages.
 #show_downloads: true
 #google_analytics:
 email: mshalaby@live.ca
 
-plugins:
-- jekyll-avatar
-- jekyll-feed
-- jekyll-mentions
-- jekyll-redirect-from
-- jekyll-seo-tag
-- jekyll-sitemap
-- jemoji
+color_scheme: dark
 
  
 #theme: jekyll-theme-cayman
