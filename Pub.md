@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Publications
+nav_order: 3
 ---
 
 # [Home](index)  &nbsp; &nbsp;  [Research](Research)  &nbsp; &nbsp;  [Publications](Pub) 
