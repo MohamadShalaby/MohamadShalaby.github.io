@@ -6,8 +6,8 @@ show_downloads: true
 #google_analytics:
 
 color_scheme: dark
+# Enable or disable heading anchors
 heading_anchors: true
-
  
 #theme: jekyll-theme-cayman
 #theme: jekyll-theme-dinky
