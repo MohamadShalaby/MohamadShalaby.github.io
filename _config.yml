@@ -1,24 +1,11 @@
 title: Mohamad Shalaby
-show_downloads: true
 #google_analytics:
 
 color_scheme: dark
 # Enable or disable heading anchors
 heading_anchors: true
-permalink: pretty
+#permalink: pretty
 
 #theme: jekyll-theme-cayman
 #theme: jekyll-theme-dinky
-#theme: jekyll-theme-architect
-
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - index.md
-  - Research.md
-  - Pub.md
-
 theme: jekyll-theme-architect
