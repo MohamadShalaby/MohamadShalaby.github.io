@@ -22,4 +22,13 @@ plugins:
 #theme: jekyll-theme-dinky
 #theme: jekyll-theme-architect
 
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - index.md
+  - Research.md
+  - Pub.md
 
