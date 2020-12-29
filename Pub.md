@@ -21,3 +21,5 @@ layout: default
 03. Lamberts, A., Chang, P., Pfrommer, C., Puchwein, E., Broderick, A.E., Shalaby, M. 2015. "Patchy blazar heating: diversifying the thermal history of the intergalactic medium", arxiv:1502.07980 & ApJ 811 19
 02. Chang, P., Broderick, A.E., Pfrommer, C., Puchwein, E., Lamberts, A., Shalaby, M. 2014 "The Effect of Landau Damping on Ultrarelativistic Beam Plasma Instabilities", arxiv:1410.3797 & ApJ 797 110
 01. Shalaby, M. 2012 "Dynamics and Light Propagation in a Universe with Discrete Matter Content". arxiv:1205.6877
+
+{: reversed="reversed"}
