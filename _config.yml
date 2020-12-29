@@ -10,7 +10,6 @@ permalink: pretty
 #theme: jekyll-theme-cayman
 #theme: jekyll-theme-dinky
 #theme: jekyll-theme-architect
-theme: uswds-jekyll
 
 plugins:
   - jekyll-relative-links
