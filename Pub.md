@@ -14,7 +14,7 @@ nav_order: 3
 
 
 {: reversed="reversed"}
-13. **Shalaby, M.**, Thomas T, Pfrommer, C. "A new cosmic ray-driven instability", arXiv:2010.11197 & Accepted to ApJ
+13. **Shalaby, M.**, Thomas T, Pfrommer, C. "A new cosmic ray-driven instability", arXiv:2010.11197 & ApJ 908 206 
 
 12. Tiede, P., Broderick, A.E., **Shalaby, M.**, Pfrommer, C., Puchwein, E., Chang, P., Lamberts, A. "Constraints on the Intergalactic Magnetic Field from Bow Ties in the Gamma-ray Sky", arxiv:1702.02586 & ApJ 892 123
 
